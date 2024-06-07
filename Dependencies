@@ -1,0 +1,4 @@
+mkdir my-smart-contract
+cd my-smart-contract
+npm init -y
+npm install web3 dotenv
